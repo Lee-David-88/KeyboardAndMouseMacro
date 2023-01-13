@@ -1,2 +1,1 @@
-import keyboard
-
+import keyboard as kb
